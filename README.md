@@ -22,11 +22,6 @@
 **Python + Tkinter + win32com + PyInstaller**  
 [![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/medhelper2?style=social)](https://github.com/andreykhramtsov01/DOCEditor)
 
-### 🔍 Data Parser
-**Парсер данных** образовательных учреждений  
-**Python + BeautifulSoup + PostgreSQL**  
-[![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/edu-parser?style=social)](https://github.com/andreykhramtsov01/edu-parser)
-
 ---
 
 ## 🛠️ Мой стек
