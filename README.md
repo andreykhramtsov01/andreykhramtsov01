@@ -17,10 +17,10 @@
 **FastAPI + PostgreSQL + Docker**  
 [![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/payment-simulator?style=social)](https://github.com/andreykhramtsov01/payment-simulator)
 
-### 🩺 MedHelper2
+### 🩺 DOCEditor
 **Desktop приложение** для автоматизации Word документов  
 **Python + Tkinter + win32com + PyInstaller**  
-[![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/medhelper2?style=social)](https://github.com/andreykhramtsov01/medhelper2)
+[![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/medhelper2?style=social)](https://github.com/andreykhramtsov01/DOCEditor)
 
 ### 🔍 Data Parser
 **Парсер данных** образовательных учреждений  
