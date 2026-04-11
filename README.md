@@ -3,7 +3,7 @@
 # Привет! 👋 Я Андрей
 
 **Python Backend Developer** из Москвы  
-**FastAPI • PostgreSQL • Docker • SQLAlchemy**
+**FastAPI • PostgreSQL • Docker • LangChain • SQLAlchemy**
 
 [![GitHub followers](https://img.shields.io/github/followers/andreykhramtsov01?label=Followers&style=social)](https://github.com/andreykhramtsov01)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
@@ -12,14 +12,22 @@
 
 ## 🚀 Мои проекты
 
-### 💳 Payment Simulator API
+### 🤖 **Banking Python Mentor Bot** *(Новое)*
+**AI-наставник** по Python/backend для банковского домена  
+**FastAPI + LangChain + Docker + OpenRouter**  
+Web UI, memory диалога, REST API  
+[![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/banking-python-mentor-bot?style=social)](https://github.com/andreykhramtsov01/banking-python-mentor-bot)
+
+### 💳 **Payment Simulator API**
 **REST API** для симуляции платежей (CRUD + статистика)  
 **FastAPI + PostgreSQL + Docker**  
+Webhook, статистика, production-ready  
 [![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/payment-simulator?style=social)](https://github.com/andreykhramtsov01/payment-simulator)
 
-### 🩺 DOCEditor
+### 🩺 **DOCEditor** 
 **Desktop приложение** для автоматизации Word документов  
 **Python + Tkinter + win32com + PyInstaller**  
+Пакетная обработка, GUI, .exe сборка  
 [![GitHub stars](https://img.shields.io/github/stars/andreykhramtsov01/medhelper2?style=social)](https://github.com/andreykhramtsov01/DOCEditor)
 
 ---
@@ -33,6 +41,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4F337A?style=flat&logo=sqlalchemy&logoColor=white)](https://sqlalchemy.org)
+[![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=flat&logo=langchain&logoColor=white)](https://langchain.com)
 
 </div>
 
@@ -52,6 +61,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/D_r_u_c_e)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrey.khramtsov01@gmail.com)
 
-**Специализация:** Backend разработка, API, базы данных, Docker
+**Специализация:** Backend разработка, API, базы данных, Docker, AI-интеграции
 
 </div>
