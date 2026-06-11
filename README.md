@@ -19,7 +19,7 @@
 
 - 🔭 Сейчас: покрываю проекты pytest-тестами, настраиваю CI/CD
 - 🌱 Изучаю: pytest, GitHub Actions, тест-стратегии, REST API тестирование
-- 💬 Спроси меня про: FastAPI, PostgreSQL, Docker, LangChain, COM-автоматизацию
+- 🛠️ Люблю работать с FastAPI, PostgreSQL, Docker, LangChain
 - 📍 Москва
 
 ---
