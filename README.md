@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=620&lines=Привет!+Я+Андрей+👋;Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AI" alt="Typing SVG" />
+# Привет! Я Андрей 👋
 
-<br/>
-
-**Python Backend Developer** из Москвы 🇷🇺  
+**Python Backend Developer & QA Engineer** из Москвы 🇷🇺  
 Строю REST API, AI-интеграции и инструменты автоматизации
 
 [![GitHub followers](https://img.shields.io/github/followers/andreykhramtsov01?label=Followers&style=social)](https://github.com/andreykhramtsov01)
@@ -17,9 +15,10 @@
 
 ## 👨‍💻 О себе
 
-- 🎯 Ищу стажировку: **QA Engineer** или **Backend Developer**
-- 🔭 Сейчас работаю над: покрытием проектов pytest-тестами и настройкой CI/CD
-- 🌱 Изучаю: pytest, GitHub Actions, тест-стратегии
+Пишу на Python — собираю API, автоматизирую процессы, интегрирую AI. Параллельно развиваюсь в тестировании: пишу тесты для своих проектов, изучаю стратегии и инструменты QA. Открыт к работе в роли **Backend Developer** или **QA Engineer**.
+
+- 🔭 Сейчас: покрываю проекты pytest-тестами, настраиваю CI/CD
+- 🌱 Изучаю: pytest, GitHub Actions, тест-стратегии, REST API тестирование
 - 💬 Спроси меня про: FastAPI, PostgreSQL, Docker, LangChain, COM-автоматизацию
 - 📍 Москва
 
